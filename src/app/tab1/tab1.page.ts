@@ -39,11 +39,10 @@ export class Tab1Page {
         }
       ],
       showProgress: true,
-      skipLabel: "Annuler",
-      doneLabel: "Commencer",
-      nextLabel: "Suivant",
-      prevLabel: "Précédent",
-      overlayOpacity: "0.8"
+      skipLabel: "Cancel",
+      doneLabel: "Begin",
+      nextLabel: "Next",
+      prevLabel: "Back",
     });
     intro.start();
   }
