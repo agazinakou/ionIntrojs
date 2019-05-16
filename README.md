@@ -11,7 +11,7 @@ When new users visit your application you should demonstrate your app features u
 
 To run the project, type the following commands:
 
-``` 
+``` bash
 $ npm install 
 $ ionic serve 
 ```
